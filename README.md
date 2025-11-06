@@ -1,6 +1,6 @@
 # Atividade de Extensão
 Repositório para a atividade de extensão.
----
+
 **Nome do ecommerce:**
 ---
 **Integrante líder:** Jean Carlos
@@ -10,5 +10,5 @@ Repositório para a atividade de extensão.
 <br>**Integrante 04:**
 ---
 **Tecnologias utilizadas:**
----
+
 **Tipo de licença:** público ou privado
