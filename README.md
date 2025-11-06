@@ -1,5 +1,5 @@
 # Atividade de Extensão
-Repositório para a atividade de extensão.
+***Repositório para a atividade de extensão.***
 
 **Nome do ecommerce:**
 
