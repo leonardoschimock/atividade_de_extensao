@@ -9,7 +9,7 @@
 <br>**Integrante 01:** Leonardo Schimock
 <br>**Integrante 02:** Thiago de Barros
 <br>**Integrante 03:** Jheymis Bueno
-<br>**Integrante 04:**
+<br>**Integrante 04:** Andres Pignoloni
 
 ---
 
