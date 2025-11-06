@@ -1,10 +1,10 @@
 # Atividade de Extensão
 Repositório para a atividade de extensão.
 
-- Nome do ecommerce:
+Nome do ecommerce:
 
 Integrante líder:
-Integrante 01:
+<br>Integrante 01:
 Integrante 02:
 Integrante 03:
 Integrante 04:
