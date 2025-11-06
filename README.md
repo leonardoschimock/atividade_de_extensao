@@ -5,9 +5,9 @@ Nome do ecommerce:
 
 Integrante líder:
 <br>Integrante 01:
-Integrante 02:
-Integrante 03:
-Integrante 04:
+<br>Integrante 02:
+<br>Integrante 03:
+<br>Integrante 04:
 
 Tecnologias utilizadas:
 
