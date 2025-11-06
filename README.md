@@ -1,2 +1,2 @@
-# atividade_de_extensao
+# Atividade de Extensão
 Repositório para a atividade de extensão.
